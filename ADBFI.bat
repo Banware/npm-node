@@ -37,3 +37,8 @@ echo You are now finished, you can close this window now.
 echo.
 pause
 exit
+
+
+:Side_Note
+:If_the_file_is_not_where_you_intended_for_it_to_be
+:Then_you_entered_the_wrong_username
